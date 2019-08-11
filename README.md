@@ -87,6 +87,23 @@ $ python3 barcode_scanner_image.py --image <path_of_barcode_or_qr_code>
   and 
   
   show.png is the output 
+ 
   
  
 
+Now to use raspberry pi we need to boot raspberry os on a sd card, the link is given below -
+
+->> https://youtu.be/CsNG2YZCc8A
+ 
+mount this sd card in the raspberry pi 
+
+the next thing yiu need to do is 
+    ## use pi camera 
+    ## how to connect and configure picamera ... link is given below 
+ ->>    https://youtu.be/xA9rzq5_GFM
+ 
+ now back to your terminal 
+ 
+ type
+ 
+$ python3 barcode_scanner_video.py
