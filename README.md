@@ -81,4 +81,12 @@ open the directory where the code is saved
 type 
 
 $ python3 barcode_scanner_image.py --image <path_of_barcode_or_qr_code>
+ 
+ frame.png is the uploaded image 
+  
+  and 
+  
+  show.png is the output 
+  
+ 
 
